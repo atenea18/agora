@@ -1,0 +1,7 @@
+index.php
+agora_IV
+blank_agrupa
+NAO
+blank
+blank_agrupa
+LigMd5

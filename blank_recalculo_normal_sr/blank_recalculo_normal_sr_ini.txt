@@ -1,0 +1,7 @@
+index.php
+agora_IV
+blank_recalculo_normal_sr
+NAO
+blank
+blank_recalculo_normal_sr
+LigMd5

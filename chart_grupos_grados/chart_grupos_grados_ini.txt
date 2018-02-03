@@ -1,0 +1,7 @@
+index.php
+agora_IV
+chart_grupos_grados
+NAO
+cons
+chart_grupos_grados
+LigMd5

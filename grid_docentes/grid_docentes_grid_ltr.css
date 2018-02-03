@@ -1,0 +1,26 @@
+.css_documento_label {text-align:left;vertical-align:middle;font-weight:bold;}
+.css_documento_grid_line {font-size:10px;vertical-align: top;text-align: left;}
+.css_nom_completo_label {text-align:;vertical-align:middle;font-weight:bold;}
+.css_nom_completo_grid_line {font-size:10px;text-align: center;}
+.css_tel_fijo_label {text-align:left;vertical-align:middle;font-weight:bold;}
+.css_tel_fijo_grid_line {font-size:10px;vertical-align: top;text-align: left;}
+.css_tel_celular_label {text-align:left;vertical-align:middle;font-weight:bold;}
+.css_tel_celular_grid_line {font-size:10px;vertical-align: top;text-align: left;}
+.css_email_label {text-align:left;vertical-align:middle;font-weight:bold;}
+.css_email_grid_line {font-size:10px;vertical-align: top;text-align: left;}
+.css_direccion_label {text-align:left;vertical-align:middle;font-weight:bold;}
+.css_direccion_grid_line {font-size:10px;vertical-align: top;text-align: left;}
+.css_id_area_label {text-align:left;vertical-align:middle;font-weight:bold;}
+.css_id_area_grid_line {font-size:10px;vertical-align: top;text-align: left;}
+.css_foto_label {text-align:left;vertical-align:middle;font-weight:bold;}
+.css_foto_grid_line {vertical-align: top;text-align: left;}
+.css_id_docente_label {text-align:right;vertical-align:middle;font-weight:bold;}
+.css_id_docente_grid_line {vertical-align: top;text-align: right;}
+.css_primer_apellido_label {text-align:left;vertical-align:middle;font-weight:bold;}
+.css_primer_apellido_grid_line {vertical-align: top;text-align: left;}
+.css_segundo_apellido_label {text-align:left;vertical-align:middle;font-weight:bold;}
+.css_segundo_apellido_grid_line {vertical-align: top;text-align: left;}
+.css_primer_nombre_label {text-align:left;vertical-align:middle;font-weight:bold;}
+.css_primer_nombre_grid_line {vertical-align: top;text-align: left;}
+.css_segundo_nombre_label {text-align:left;vertical-align:middle;font-weight:bold;}
+.css_segundo_nombre_grid_line {vertical-align: top;text-align: left;}

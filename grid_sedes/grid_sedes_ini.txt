@@ -1,0 +1,7 @@
+index.php
+agora_IV
+grid_sedes
+NAO
+cons
+grid_sedes
+LigMd5

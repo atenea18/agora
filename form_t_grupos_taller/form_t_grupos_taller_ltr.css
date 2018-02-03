@@ -1,0 +1,39 @@
+.css_id_grado_label {text-align:right;}
+.css_id_grado_line {text-align:left;}
+.css_id_grado_obj {text-align:left;}
+.css_id_sede_label { }
+.css_id_sede_line {text-align:left;}
+.css_id_sede_obj {text-align:left;}
+.css_id_director_grupo_label { }
+.css_id_director_grupo_line {text-align:left;}
+.css_id_director_grupo_obj {text-align:left;}
+.css_nombre_grupo_label { }
+.css_nombre_grupo_line { }
+.css_nombre_grupo_obj { }
+.css_jornada_label { }
+.css_jornada_line { }
+.css_jornada_obj { }
+.css_modalidad_label { }
+.css_modalidad_line { }
+.css_modalidad_obj { }
+.css_calendario_label { }
+.css_calendario_line { }
+.css_calendario_obj { }
+.css_tipo_educ_label { }
+.css_tipo_educ_line { }
+.css_tipo_educ_obj { }
+.css_entorno_label { }
+.css_entorno_line { }
+.css_entorno_obj { }
+.css_asig_academ_label { }
+.css_asig_academ_line { }
+.css_asig_academ_obj { }
+.css_estudiante_label {text-align:center;}
+.css_estudiante_line {text-align:center;}
+.css_estudiante_obj {text-align:left;width:500px;}
+.css_num_estudiantes_grupo_label {font-size:14px;font-weight:bold;text-align:left;}
+.css_num_estudiantes_grupo_line {font-size:6px;color:#FFFFFF;font-weight:bold;text-align:right;}
+.css_num_estudiantes_grupo_obj {font-size:6px;color:#FFFFFF;font-weight:normal;text-align:left;}
+.css_relleno_label {font-size:14px;font-weight:bold;}
+.css_relleno_line { }
+.css_relleno_obj { }

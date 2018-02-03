@@ -1,0 +1,58 @@
+.css_idstudents_label {text-align:right;vertical-align:middle;font-weight:bold;}
+.css_idstudents_grid_line {vertical-align: top;text-align: right;}
+.css_nombre_label {text-align:;vertical-align:middle;font-weight:bold;}
+.css_nombre_grid_line {text-align: left;}
+.css_genero_label {text-align:left;vertical-align:middle;font-weight:bold;}
+.css_genero_grid_line {vertical-align: top;text-align: left;}
+.css_fecha_nacimiento_label {text-align:center;vertical-align:middle;font-weight:bold;}
+.css_fecha_nacimiento_grid_line {vertical-align: top;text-align: center;}
+.css_edad_label {text-align:;vertical-align:middle;font-weight:bold;}
+.css_edad_grid_line {text-align: right;}
+.css_telefono_label {text-align:left;vertical-align:middle;font-weight:bold;}
+.css_telefono_grid_line {font-size:10px;vertical-align: top;text-align: left;}
+.css_tipo_identificacion_label {text-align:left;vertical-align:middle;font-weight:bold;}
+.css_tipo_identificacion_grid_line {vertical-align: top;text-align: left;}
+.css_numero_documento_label {text-align:left;vertical-align:middle;font-weight:bold;}
+.css_numero_documento_grid_line {vertical-align: top;text-align: left;}
+.css_matricula_label {text-align:;vertical-align:middle;font-weight:bold;}
+.css_matricula_grid_line {text-align: center;}
+.css_estatus_label {text-align:left;vertical-align:middle;font-weight:bold;}
+.css_estatus_grid_line {vertical-align: top;text-align: left;}
+.css_id_sede_label {text-align:right;vertical-align:middle;font-weight:bold;}
+.css_id_sede_grid_line {vertical-align: top;text-align: right;}
+.css_id_jornada_label {text-align:right;vertical-align:middle;font-weight:bold;}
+.css_id_jornada_grid_line {vertical-align: top;text-align: right;}
+.css_semestre_label {text-align:right;vertical-align:middle;font-weight:bold;}
+.css_semestre_grid_line {vertical-align: top;text-align: right;}
+.css_fecha_matricula_label {text-align:center;vertical-align:middle;font-weight:bold;}
+.css_fecha_matricula_grid_line {vertical-align: top;text-align: center;}
+.css_address_label {text-align:left;vertical-align:middle;font-weight:bold;}
+.css_address_grid_line {vertical-align: top;text-align: left;}
+.css_barrio_label {text-align:left;vertical-align:middle;font-weight:bold;}
+.css_barrio_grid_line {vertical-align: top;text-align: left;}
+.css_zona_label {text-align:left;vertical-align:middle;font-weight:bold;}
+.css_zona_grid_line {vertical-align: top;text-align: left;}
+.css_grado_anterior_label {text-align:right;vertical-align:middle;font-weight:bold;}
+.css_grado_anterior_grid_line {vertical-align: top;text-align: right;}
+.css_grado_igreso_label {text-align:right;vertical-align:middle;font-weight:bold;}
+.css_grado_igreso_grid_line {vertical-align: top;text-align: right;}
+.css_subsidado_label {text-align:left;vertical-align:middle;font-weight:bold;}
+.css_subsidado_grid_line {vertical-align: top;text-align: left;}
+.css_id_grupo_label {text-align:center;vertical-align:middle;font-weight:bold;}
+.css_id_grupo_grid_line {vertical-align: top;text-align: center;}
+.css_especialidad_label {text-align:left;vertical-align:middle;font-weight:bold;}
+.css_especialidad_grid_line {vertical-align: top;text-align: left;}
+.css_eps_label {text-align:right;vertical-align:middle;font-weight:bold;}
+.css_eps_grid_line {vertical-align: top;text-align: right;}
+.css_tipo_sangre_label {text-align:left;vertical-align:middle;font-weight:bold;}
+.css_tipo_sangre_grid_line {vertical-align: top;text-align: left;}
+.css_nivel_sisben_label {text-align:left;vertical-align:middle;font-weight:bold;}
+.css_nivel_sisben_grid_line {vertical-align: top;text-align: left;}
+.css_estrato_label {text-align:right;vertical-align:middle;font-weight:bold;}
+.css_estrato_grid_line {vertical-align: top;text-align: right;}
+.css_etnia_label {text-align:left;vertical-align:middle;font-weight:bold;}
+.css_etnia_grid_line {vertical-align: top;text-align: left;}
+.css_email_label {text-align:left;vertical-align:middle;font-weight:bold;}
+.css_email_grid_line {vertical-align: top;text-align: left;}
+.css_subsidio_label {text-align:left;vertical-align:middle;font-weight:bold;}
+.css_subsidio_grid_line {vertical-align: top;text-align: left;}

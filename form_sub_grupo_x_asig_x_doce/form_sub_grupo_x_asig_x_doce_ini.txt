@@ -1,0 +1,7 @@
+index.php
+agora_IV
+form_sub_grupo_x_asig_x_doce
+NAO
+form
+form_sub_grupo_x_asig_x_doce
+LigMd5

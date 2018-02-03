@@ -1,0 +1,136 @@
+.css_idstudents_det_label {text-align: right;vertical-align: middle;}
+.css_idstudents_det_line {height:0px;text-align: right;}
+.css_id_sede_det_label {text-align: right;vertical-align: middle;}
+.css_id_sede_det_line {height:0px;text-align: right;}
+.css_id_jornada_det_label {text-align: right;vertical-align: middle;}
+.css_id_jornada_det_line {height:0px;text-align: right;}
+.css_semestre_det_label {text-align: right;vertical-align: middle;}
+.css_semestre_det_line {height:0px;text-align: right;}
+.css_estatus_det_label {text-align: right;vertical-align: middle;}
+.css_estatus_det_line {height:0px;text-align: right;}
+.css_fecha_matricula_det_label {text-align: right;vertical-align: middle;}
+.css_fecha_matricula_det_line {height:0px;text-align: right;}
+.css_tipo_identificacion_det_label {text-align: right;vertical-align: middle;}
+.css_tipo_identificacion_det_line {height:0px;text-align: right;}
+.css_numero_documento_det_label {text-align: right;vertical-align: middle;}
+.css_numero_documento_det_line {height:0px;text-align: right;}
+.css_departanebti_expedicion_det_label {text-align: right;vertical-align: middle;}
+.css_departanebti_expedicion_det_line {height:0px;text-align: right;}
+.css_municipio_expedicion_det_label {text-align: right;vertical-align: middle;}
+.css_municipio_expedicion_det_line {height:0px;text-align: right;}
+.css_primer_nombre_det_label {text-align: right;vertical-align: middle;}
+.css_primer_nombre_det_line {height:0px;text-align: right;}
+.css_segundo_nombre_det_label {text-align: right;vertical-align: middle;}
+.css_segundo_nombre_det_line {height:0px;text-align: right;}
+.css_primer_apellido_det_label {text-align: right;vertical-align: middle;}
+.css_primer_apellido_det_line {height:0px;text-align: right;}
+.css_segundo_apellido_det_label {text-align: right;vertical-align: middle;}
+.css_segundo_apellido_det_line {height:0px;text-align: right;}
+.css_firstname_det_label {text-align: right;vertical-align: middle;}
+.css_firstname_det_line {height:0px;text-align: right;}
+.css_lastname_det_label {text-align: right;vertical-align: middle;}
+.css_lastname_det_line {height:0px;text-align: right;}
+.css_genero_det_label {text-align: right;vertical-align: middle;}
+.css_genero_det_line {height:0px;text-align: right;}
+.css_fecha_nacimiento_det_label {text-align: right;vertical-align: middle;}
+.css_fecha_nacimiento_det_line {height:0px;text-align: right;}
+.css_anos_cumplidos_det_label {text-align: right;vertical-align: middle;}
+.css_anos_cumplidos_det_line {height:0px;text-align: right;}
+.css_dpto_nacimiento_det_label {text-align: right;vertical-align: middle;}
+.css_dpto_nacimiento_det_line {height:0px;text-align: right;}
+.css_municipio_nacimiento_det_label {text-align: right;vertical-align: middle;}
+.css_municipio_nacimiento_det_line {height:0px;text-align: right;}
+.css_address_det_label {text-align: right;vertical-align: middle;}
+.css_address_det_line {height:0px;text-align: right;}
+.css_barrio_det_label {text-align: right;vertical-align: middle;}
+.css_barrio_det_line {height:0px;text-align: right;}
+.css_zona_det_label {text-align: right;vertical-align: middle;}
+.css_zona_det_line {height:0px;text-align: right;}
+.css_city_det_label {text-align: right;vertical-align: middle;}
+.css_city_det_line {height:0px;text-align: right;}
+.css_state_det_label {text-align: right;vertical-align: middle;}
+.css_state_det_line {height:0px;text-align: right;}
+.css_telefono_det_label {text-align: right;vertical-align: middle;}
+.css_telefono_det_line {height:0px;text-align: right;}
+.css_grado_anterior_det_label {text-align: right;vertical-align: middle;}
+.css_grado_anterior_det_line {height:0px;text-align: right;}
+.css_last_year_det_label {text-align: right;vertical-align: middle;}
+.css_last_year_det_line {height:0px;text-align: right;}
+.css_nombre_ult_plantel_det_label {text-align: right;vertical-align: middle;}
+.css_nombre_ult_plantel_det_line {height:0px;text-align: right;}
+.css_resultado_det_label {text-align: right;vertical-align: middle;}
+.css_resultado_det_line {height:0px;text-align: right;}
+.css_grado_igreso_det_label {text-align: right;vertical-align: middle;}
+.css_grado_igreso_det_line {height:0px;text-align: right;}
+.css_subsidado_det_label {text-align: right;vertical-align: middle;}
+.css_subsidado_det_line {height:0px;text-align: right;}
+.css_interno_det_label {text-align: right;vertical-align: middle;}
+.css_interno_det_line {height:0px;text-align: right;}
+.css_id_grupo_det_label {text-align: right;vertical-align: middle;}
+.css_id_grupo_det_line {height:0px;text-align: right;}
+.css_otro_modelo_det_label {text-align: right;vertical-align: middle;}
+.css_otro_modelo_det_line {height:0px;text-align: right;}
+.css_caracter_det_label {text-align: right;vertical-align: middle;}
+.css_caracter_det_line {height:0px;text-align: right;}
+.css_especialidad_det_label {text-align: right;vertical-align: middle;}
+.css_especialidad_det_line {height:0px;text-align: right;}
+.css_eps_det_label {text-align: right;vertical-align: middle;}
+.css_eps_det_line {height:0px;text-align: right;}
+.css_ips_det_label {text-align: right;vertical-align: middle;}
+.css_ips_det_line {height:0px;text-align: right;}
+.css_ars_det_label {text-align: right;vertical-align: middle;}
+.css_ars_det_line {height:0px;text-align: right;}
+.css_tipo_sangre_det_label {text-align: right;vertical-align: middle;}
+.css_tipo_sangre_det_line {height:0px;text-align: right;}
+.css_victima_conflicto_det_label {text-align: right;vertical-align: middle;}
+.css_victima_conflicto_det_line {height:0px;text-align: right;}
+.css_estatus_vca_det_label {text-align: right;vertical-align: middle;}
+.css_estatus_vca_det_line {height:0px;text-align: right;}
+.css_depto_expulsor_det_label {text-align: right;vertical-align: middle;}
+.css_depto_expulsor_det_line {height:0px;text-align: right;}
+.css_municipio_expulsor_det_label {text-align: right;vertical-align: middle;}
+.css_municipio_expulsor_det_line {height:0px;text-align: right;}
+.css_fecha_expulsion_det_label {text-align: right;vertical-align: middle;}
+.css_fecha_expulsion_det_line {height:0px;text-align: right;}
+.css_certificado_det_label {text-align: right;vertical-align: middle;}
+.css_certificado_det_line {height:0px;text-align: right;}
+.css_numero_carne_sisben_det_label {text-align: right;vertical-align: middle;}
+.css_numero_carne_sisben_det_line {height:0px;text-align: right;}
+.css_nivel_sisben_det_label {text-align: right;vertical-align: middle;}
+.css_nivel_sisben_det_line {height:0px;text-align: right;}
+.css_estrato_det_label {text-align: right;vertical-align: middle;}
+.css_estrato_det_line {height:0px;text-align: right;}
+.css_fuente_recurso_det_label {text-align: right;vertical-align: middle;}
+.css_fuente_recurso_det_line {height:0px;text-align: right;}
+.css_opcion_det_label {text-align: right;vertical-align: middle;}
+.css_opcion_det_line {height:0px;text-align: right;}
+.css_resguardo_det_label {text-align: right;vertical-align: middle;}
+.css_resguardo_det_line {height:0px;text-align: right;}
+.css_negritudes_det_label {text-align: right;vertical-align: middle;}
+.css_negritudes_det_line {height:0px;text-align: right;}
+.css_etnia_det_label {text-align: right;vertical-align: middle;}
+.css_etnia_det_line {height:0px;text-align: right;}
+.css_discapacidades_det_label {text-align: right;vertical-align: middle;}
+.css_discapacidades_det_line {height:0px;text-align: right;}
+.css_capacidades_det_label {text-align: right;vertical-align: middle;}
+.css_capacidades_det_line {height:0px;text-align: right;}
+.css_postalcode_det_label {text-align: right;vertical-align: middle;}
+.css_postalcode_det_line {height:0px;text-align: right;}
+.css_email_det_label {text-align: right;vertical-align: middle;}
+.css_email_det_line {height:0px;text-align: right;}
+.css_login_det_label {text-align: right;vertical-align: middle;}
+.css_login_det_line {height:0px;text-align: right;}
+.css_photo_det_label {text-align: right;vertical-align: middle;}
+.css_photo_det_line {height:0px;text-align: right;}
+.css_observaciones_det_label {text-align: right;vertical-align: middle;}
+.css_observaciones_det_line {height:0px;text-align: right;}
+.css_peso_det_label {text-align: right;vertical-align: middle;}
+.css_peso_det_line {height:0px;text-align: right;}
+.css_talla_det_label {text-align: right;vertical-align: middle;}
+.css_talla_det_line {height:0px;text-align: right;}
+.css_cobertura_det_label {text-align: right;vertical-align: middle;}
+.css_cobertura_det_line {height:0px;text-align: right;}
+.css_vive_con_det_label {text-align: right;vertical-align: middle;}
+.css_vive_con_det_line {height:0px;text-align: right;}
+.css_subsidio_det_label {text-align: right;vertical-align: middle;}
+.css_subsidio_det_line {height:0px;text-align: right;}

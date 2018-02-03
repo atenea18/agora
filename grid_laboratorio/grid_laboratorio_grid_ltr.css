@@ -1,0 +1,52 @@
+.css_nombre_completo_label {text-align:left;vertical-align:middle;font-weight:bold;}
+.css_nombre_completo_grid_line {font-size:11px;text-align: left;}
+.css_students_semestre_label {text-align:right;vertical-align:middle;font-weight:bold;}
+.css_students_semestre_grid_line {vertical-align: top;text-align: right;}
+.css_students_estatus_label {text-align:left;vertical-align:middle;font-weight:bold;}
+.css_students_estatus_grid_line {vertical-align: top;text-align: left;}
+.css_students_fecha_matricula_label {text-align:center;vertical-align:middle;font-weight:bold;}
+.css_students_fecha_matricula_grid_line {vertical-align: top;text-align: center;}
+.css_students_tipo_identificacion_label {text-align:left;vertical-align:middle;font-weight:bold;}
+.css_students_tipo_identificacion_grid_line {vertical-align: top;text-align: left;}
+.css_students_numero_documento_label {text-align:left;vertical-align:middle;font-weight:bold;}
+.css_students_numero_documento_grid_line {vertical-align: top;text-align: left;}
+.css_students_genero_label {text-align:left;vertical-align:middle;font-weight:bold;}
+.css_students_genero_grid_line {vertical-align: top;text-align: left;}
+.css_students_fecha_nacimiento_label {text-align:center;vertical-align:middle;font-weight:bold;}
+.css_students_fecha_nacimiento_grid_line {vertical-align: top;text-align: center;}
+.css_students_anos_cumplidos_label {text-align:right;vertical-align:middle;font-weight:bold;}
+.css_students_anos_cumplidos_grid_line {vertical-align: top;text-align: right;}
+.css_students_telefono_label {text-align:left;vertical-align:middle;font-weight:bold;}
+.css_students_telefono_grid_line {font-size:10px;vertical-align: top;text-align: left;}
+.css_students_etnia_label {text-align:left;vertical-align:middle;font-weight:bold;}
+.css_students_etnia_grid_line {vertical-align: top;text-align: left;}
+.css_students_email_label {text-align:left;vertical-align:middle;font-weight:bold;}
+.css_students_email_grid_line {vertical-align: top;text-align: left;}
+.css_students_zona_label {text-align:left;vertical-align:middle;font-weight:bold;}
+.css_students_zona_grid_line {vertical-align: top;text-align: left;}
+.css_campo_vac_1_label {text-align:;vertical-align:middle;font-weight:bold;}
+.css_campo_vac_1_grid_line {text-align: center;}
+.css_campo_vac_2_label {text-align:;vertical-align:middle;font-weight:bold;}
+.css_campo_vac_2_grid_line {text-align: center;}
+.css_campo_vac_3_label {text-align:;vertical-align:middle;font-weight:bold;}
+.css_campo_vac_3_grid_line {text-align: left;}
+.css_campo_vac_4_label {text-align:;vertical-align:middle;font-weight:bold;}
+.css_campo_vac_4_grid_line {text-align: left;}
+.css_campo_vac_5_label {text-align:;vertical-align:middle;font-weight:bold;}
+.css_campo_vac_5_grid_line {text-align: left;}
+.css_campo_vac_6_label {text-align:;vertical-align:middle;font-weight:bold;}
+.css_campo_vac_6_grid_line {text-align: left;}
+.css_campo_vac_7_label {text-align:;vertical-align:middle;font-weight:bold;}
+.css_campo_vac_7_grid_line {text-align: left;}
+.css_campo_vac_8_label {text-align:;vertical-align:middle;font-weight:bold;}
+.css_campo_vac_8_grid_line {text-align: left;}
+.css_campo_vac_9_label {text-align:;vertical-align:middle;font-weight:bold;}
+.css_campo_vac_9_grid_line {text-align: left;}
+.css_campo_vac_10_label {text-align:;vertical-align:middle;font-weight:bold;}
+.css_campo_vac_10_grid_line {text-align: left;}
+.css_students_id_sede_label {text-align:left;vertical-align:middle;font-weight:bold;}
+.css_students_id_sede_grid_line {vertical-align: top;text-align: left;}
+.css_students_id_jornada_label {text-align:right;vertical-align:middle;font-weight:bold;}
+.css_students_id_jornada_grid_line {vertical-align: top;text-align: right;}
+.css_students_id_grupo_label {text-align:right;vertical-align:middle;font-weight:bold;}
+.css_students_id_grupo_grid_line {vertical-align: top;text-align: right;}

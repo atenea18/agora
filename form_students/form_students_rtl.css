@@ -1,0 +1,219 @@
+.css_id_sede_label { }
+.css_id_sede_line { }
+.css_id_sede_obj { }
+.css_id_jornada_label { }
+.css_id_jornada_line {text-align:left;}
+.css_id_jornada_obj {text-align:left;}
+.css_semestre_label { }
+.css_semestre_line {text-align:left;}
+.css_semestre_obj {text-align:left;}
+.css_estatus_label { }
+.css_estatus_line { }
+.css_estatus_obj { }
+.css_fecha_matricula_label { }
+.css_fecha_matricula_line { }
+.css_fecha_matricula_obj { }
+.css_tipo_identificacion_label { }
+.css_tipo_identificacion_line { }
+.css_tipo_identificacion_obj { }
+.css_numero_documento_label { }
+.css_numero_documento_line { }
+.css_numero_documento_obj { }
+.css_departanebti_expedicion_label { }
+.css_departanebti_expedicion_line {text-align:left;}
+.css_departanebti_expedicion_obj {text-align:left;}
+.css_municipio_expedicion_label { }
+.css_municipio_expedicion_line {text-align:left;}
+.css_municipio_expedicion_obj {text-align:left;}
+.css_primer_nombre_label {vertical-align:top;}
+.css_primer_nombre_line {vertical-align:top;}
+.css_primer_nombre_obj { }
+.css_segundo_nombre_label {vertical-align:top;}
+.css_segundo_nombre_line {vertical-align:top;}
+.css_segundo_nombre_obj { }
+.css_primer_apellido_label {vertical-align:top;}
+.css_primer_apellido_line {vertical-align:top;}
+.css_primer_apellido_obj { }
+.css_segundo_apellido_label {vertical-align:top;}
+.css_segundo_apellido_line {vertical-align:top;}
+.css_segundo_apellido_obj { }
+.css_firstname_label { }
+.css_firstname_line { }
+.css_firstname_obj { }
+.css_lastname_label { }
+.css_lastname_line { }
+.css_lastname_obj { }
+.css_genero_label { }
+.css_genero_line { }
+.css_genero_obj { }
+.css_fecha_nacimiento_label { }
+.css_fecha_nacimiento_line { }
+.css_fecha_nacimiento_obj { }
+.css_anos_cumplidos_label { }
+.css_anos_cumplidos_line {text-align:left;}
+.css_anos_cumplidos_obj {text-align:left;}
+.css_dpto_nacimiento_label { }
+.css_dpto_nacimiento_line {text-align:left;}
+.css_dpto_nacimiento_obj {text-align:left;}
+.css_municipio_nacimiento_label { }
+.css_municipio_nacimiento_line {text-align:left;}
+.css_municipio_nacimiento_obj {text-align:left;}
+.css_address_label { }
+.css_address_line { }
+.css_address_obj { }
+.css_barrio_label { }
+.css_barrio_line { }
+.css_barrio_obj { }
+.css_zona_label { }
+.css_zona_line { }
+.css_zona_obj { }
+.css_city_label { }
+.css_city_line { }
+.css_city_obj { }
+.css_state_label { }
+.css_state_line { }
+.css_state_obj { }
+.css_telefono_label { }
+.css_telefono_line { }
+.css_telefono_obj { }
+.css_grado_anterior_label { }
+.css_grado_anterior_line {text-align:left;}
+.css_grado_anterior_obj {text-align:left;}
+.css_last_year_label { }
+.css_last_year_line { }
+.css_last_year_obj { }
+.css_nombre_ult_plantel_label { }
+.css_nombre_ult_plantel_line { }
+.css_nombre_ult_plantel_obj { }
+.css_resultado_label { }
+.css_resultado_line { }
+.css_resultado_obj { }
+.css_grado_igreso_label { }
+.css_grado_igreso_line {text-align:left;}
+.css_grado_igreso_obj {text-align:left;}
+.css_id_nivel_label { }
+.css_id_nivel_line {text-align:left;}
+.css_id_nivel_obj {text-align:left;}
+.css_subsidado_label { }
+.css_subsidado_line { }
+.css_subsidado_obj { }
+.css_interno_label { }
+.css_interno_line { }
+.css_interno_obj { }
+.css_id_grupo_label { }
+.css_id_grupo_line {text-align:left;}
+.css_id_grupo_obj {text-align:left;}
+.css_otro_modelo_label { }
+.css_otro_modelo_line { }
+.css_otro_modelo_obj { }
+.css_caracter_label { }
+.css_caracter_line { }
+.css_caracter_obj { }
+.css_especialidad_label { }
+.css_especialidad_line { }
+.css_especialidad_obj { }
+.css_eps_label { }
+.css_eps_line {text-align:left;}
+.css_eps_obj {text-align:left;}
+.css_ips_label { }
+.css_ips_line { }
+.css_ips_obj { }
+.css_ars_label { }
+.css_ars_line { }
+.css_ars_obj { }
+.css_tipo_sangre_label { }
+.css_tipo_sangre_line { }
+.css_tipo_sangre_obj { }
+.css_victima_conflicto_label { }
+.css_victima_conflicto_line {text-align:left;}
+.css_victima_conflicto_obj {text-align:left;}
+.css_estatus_vca_label { }
+.css_estatus_vca_line {text-align:left;}
+.css_estatus_vca_obj {text-align:left;}
+.css_depto_expulsor_label { }
+.css_depto_expulsor_line {text-align:left;}
+.css_depto_expulsor_obj {text-align:left;}
+.css_municipio_expulsor_label { }
+.css_municipio_expulsor_line {text-align:left;}
+.css_municipio_expulsor_obj {text-align:left;}
+.css_fecha_expulsion_label { }
+.css_fecha_expulsion_line { }
+.css_fecha_expulsion_obj { }
+.css_certificado_label { }
+.css_certificado_line { }
+.css_certificado_obj { }
+.css_numero_carne_sisben_label { }
+.css_numero_carne_sisben_line { }
+.css_numero_carne_sisben_obj { }
+.css_nivel_sisben_label { }
+.css_nivel_sisben_line { }
+.css_nivel_sisben_obj { }
+.css_estrato_label { }
+.css_estrato_line {text-align:left;}
+.css_estrato_obj {text-align:left;}
+.css_fuente_recurso_label { }
+.css_fuente_recurso_line {text-align:left;}
+.css_fuente_recurso_obj {text-align:left;}
+.css_opcion_label { }
+.css_opcion_line {text-align:left;}
+.css_opcion_obj {text-align:left;}
+.css_resguardo_label { }
+.css_resguardo_line { }
+.css_resguardo_obj { }
+.css_negritudes_label { }
+.css_negritudes_line { }
+.css_negritudes_obj { }
+.css_etnia_label { }
+.css_etnia_line { }
+.css_etnia_obj { }
+.css_discapacidades_label { }
+.css_discapacidades_line {text-align:left;}
+.css_discapacidades_obj {text-align:left;}
+.css_capacidades_label { }
+.css_capacidades_line {text-align:left;}
+.css_capacidades_obj {text-align:left;}
+.css_postalcode_label { }
+.css_postalcode_line { }
+.css_postalcode_obj { }
+.css_email_label { }
+.css_email_line { }
+.css_email_obj { }
+.css_login_label { }
+.css_login_line { }
+.css_login_obj { }
+.css_photo_label { }
+.css_photo_line { }
+.css_photo_obj { }
+.css_observaciones_label {width:210px;}
+.css_observaciones_line {width:210px;}
+.css_observaciones_obj {width:210px;}
+.css_peso_label { }
+.css_peso_line {text-align:left;}
+.css_peso_obj {text-align:left;}
+.css_talla_label { }
+.css_talla_line {text-align:left;}
+.css_talla_obj {text-align:left;}
+.css_cobertura_label { }
+.css_cobertura_line { }
+.css_cobertura_obj { }
+.css_vive_con_label { }
+.css_vive_con_line { }
+.css_vive_con_obj { }
+.css_subsidio_label { }
+.css_subsidio_line { }
+.css_subsidio_obj { }
+.css_confirm_pswd_label { }
+.css_confirm_pswd_line { }
+.css_confirm_pswd_obj { }
+.css_matricular_label { }
+.css_matricular_line { }
+.css_matricular_obj {text-align:right;}
+.css_novedades_label { }
+.css_novedades_line { }
+.css_novedades_obj { }
+.css_pswd_label { }
+.css_pswd_line { }
+.css_pswd_obj { }
+.css_year_mat_label { }
+.css_year_mat_line { }
+.css_year_mat_obj {text-align:right;}

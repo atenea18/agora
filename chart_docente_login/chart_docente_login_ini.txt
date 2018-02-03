@@ -1,0 +1,7 @@
+index.php
+agora_IV
+chart_docente_login
+NAO
+cons
+chart_docente_login
+LigMd5

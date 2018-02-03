@@ -1,0 +1,7 @@
+index.php
+agora_IV
+grid_grupo_x_asig_x_doce_2
+NAO
+cons
+grid_grupo_x_asig_x_doce_2
+LigMd5

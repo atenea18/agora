@@ -1,0 +1,7 @@
+index.php
+agora_IV
+pdfreport_constacia_est
+NAO
+reportpdf
+pdfreport_constacia_est
+LigMd5

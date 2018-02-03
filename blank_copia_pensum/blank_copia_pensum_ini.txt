@@ -1,0 +1,7 @@
+index.php
+agora_IV
+blank_copia_pensum
+NAO
+blank
+blank_copia_pensum
+LigMd5

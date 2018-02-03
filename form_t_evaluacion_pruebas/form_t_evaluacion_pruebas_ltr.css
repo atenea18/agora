@@ -1,0 +1,327 @@
+.css_id_estudiante__label { }
+.css_id_estudiante__line {text-align:left;}
+.css_id_estudiante__obj {text-align:left;}
+.css_primer_apellido__label { }
+.css_primer_apellido__line { }
+.css_primer_apellido__obj { }
+.css_segundo_apellido__label { }
+.css_segundo_apellido__line { }
+.css_segundo_apellido__obj { }
+.css_primer_nombre__label { }
+.css_primer_nombre__line { }
+.css_primer_nombre__obj { }
+.css_segundo_nombre__label { }
+.css_segundo_nombre__line { }
+.css_segundo_nombre__obj { }
+.css_id_grupo__label { }
+.css_id_grupo__line {text-align:left;}
+.css_id_grupo__obj {text-align:left;}
+.css_id_area__label { }
+.css_id_area__line {text-align:left;}
+.css_id_area__obj {text-align:left;}
+.css_id_asignatura__label { }
+.css_id_asignatura__line {text-align:left;}
+.css_id_asignatura__obj {text-align:left;}
+.css_id_grado__label { }
+.css_id_grado__line {text-align:left;}
+.css_id_grado__obj {text-align:left;}
+.css_id_nivel__label { }
+.css_id_nivel__line {text-align:left;}
+.css_id_nivel__obj {text-align:left;}
+.css_ihs__label { }
+.css_ihs__line {text-align:left;}
+.css_ihs__obj {text-align:left;}
+.css_pfa__label { }
+.css_pfa__line {text-align:left;}
+.css_pfa__obj {text-align:left;}
+.css_tipo_asig__label { }
+.css_tipo_asig__line { }
+.css_tipo_asig__obj { }
+.css_novedad__label { }
+.css_novedad__line { }
+.css_novedad__obj { }
+.css_estatus__label { }
+.css_estatus__line { }
+.css_estatus__obj { }
+.css_inasistencia_p1__label { }
+.css_inasistencia_p1__line {text-align:left;}
+.css_inasistencia_p1__obj {text-align:left;}
+.css_eval_1_per__label { }
+.css_eval_1_per__line {text-align:left;}
+.css_eval_1_per__obj {text-align:left;}
+.css_dc1__label { }
+.css_dc1__line {text-align:left;}
+.css_dc1__obj {text-align:left;}
+.css_dc2__label { }
+.css_dc2__line {text-align:left;}
+.css_dc2__obj {text-align:left;}
+.css_dc3__label { }
+.css_dc3__line {text-align:left;}
+.css_dc3__obj {text-align:left;}
+.css_dc4__label { }
+.css_dc4__line {text-align:left;}
+.css_dc4__obj {text-align:left;}
+.css_dc5__label { }
+.css_dc5__line {text-align:left;}
+.css_dc5__obj {text-align:left;}
+.css_dc6__label { }
+.css_dc6__line {text-align:left;}
+.css_dc6__obj {text-align:left;}
+.css_dc7__label { }
+.css_dc7__line {text-align:left;}
+.css_dc7__obj {text-align:left;}
+.css_dc8__label { }
+.css_dc8__line {text-align:left;}
+.css_dc8__obj {text-align:left;}
+.css_dc9__label { }
+.css_dc9__line {text-align:left;}
+.css_dc9__obj {text-align:left;}
+.css_pcent_dc__label { }
+.css_pcent_dc__line {text-align:left;}
+.css_pcent_dc__obj {text-align:left;}
+.css_ds1__label { }
+.css_ds1__line {text-align:left;}
+.css_ds1__obj {text-align:left;}
+.css_ds2__label { }
+.css_ds2__line {text-align:left;}
+.css_ds2__obj {text-align:left;}
+.css_ds3__label { }
+.css_ds3__line {text-align:left;}
+.css_ds3__obj {text-align:left;}
+.css_ds4__label { }
+.css_ds4__line {text-align:left;}
+.css_ds4__obj {text-align:left;}
+.css_ds5__label { }
+.css_ds5__line {text-align:left;}
+.css_ds5__obj {text-align:left;}
+.css_pcent_ds__label { }
+.css_pcent_ds__line {text-align:left;}
+.css_pcent_ds__obj {text-align:left;}
+.css_dp1__label { }
+.css_dp1__line {text-align:left;}
+.css_dp1__obj {text-align:left;}
+.css_dp2__label { }
+.css_dp2__line {text-align:left;}
+.css_dp2__obj {text-align:left;}
+.css_dp3__label { }
+.css_dp3__line {text-align:left;}
+.css_dp3__obj {text-align:left;}
+.css_dp4__label { }
+.css_dp4__line {text-align:left;}
+.css_dp4__obj {text-align:left;}
+.css_dp5__label { }
+.css_dp5__line {text-align:left;}
+.css_dp5__obj {text-align:left;}
+.css_pcent_dp__label { }
+.css_pcent_dp__line {text-align:left;}
+.css_pcent_dp__obj {text-align:left;}
+.css_aeep1__label { }
+.css_aeep1__line {text-align:left;}
+.css_aeep1__obj {text-align:left;}
+.css_porcent_aeep1__label { }
+.css_porcent_aeep1__line {text-align:left;}
+.css_porcent_aeep1__obj {text-align:left;}
+.css_inasistencia_p2__label { }
+.css_inasistencia_p2__line {text-align:left;}
+.css_inasistencia_p2__obj {text-align:left;}
+.css_eval_2_per__label { }
+.css_eval_2_per__line {text-align:left;}
+.css_eval_2_per__obj {text-align:left;}
+.css_dc1_2p__label { }
+.css_dc1_2p__line {text-align:left;}
+.css_dc1_2p__obj {text-align:left;}
+.css_dc2_2p__label { }
+.css_dc2_2p__line {text-align:left;}
+.css_dc2_2p__obj {text-align:left;}
+.css_dc3_2p__label { }
+.css_dc3_2p__line {text-align:left;}
+.css_dc3_2p__obj {text-align:left;}
+.css_dc4_2p__label { }
+.css_dc4_2p__line {text-align:left;}
+.css_dc4_2p__obj {text-align:left;}
+.css_dc5_2p__label { }
+.css_dc5_2p__line {text-align:left;}
+.css_dc5_2p__obj {text-align:left;}
+.css_pcent_dc2__label { }
+.css_pcent_dc2__line {text-align:left;}
+.css_pcent_dc2__obj {text-align:left;}
+.css_ds1_2p__label { }
+.css_ds1_2p__line {text-align:left;}
+.css_ds1_2p__obj {text-align:left;}
+.css_ds2_2p__label { }
+.css_ds2_2p__line {text-align:left;}
+.css_ds2_2p__obj {text-align:left;}
+.css_ds3_2p__label { }
+.css_ds3_2p__line {text-align:left;}
+.css_ds3_2p__obj {text-align:left;}
+.css_ds4_2p__label { }
+.css_ds4_2p__line {text-align:left;}
+.css_ds4_2p__obj {text-align:left;}
+.css_ds5_2p__label { }
+.css_ds5_2p__line {text-align:left;}
+.css_ds5_2p__obj {text-align:left;}
+.css_pcent_ds2__label { }
+.css_pcent_ds2__line {text-align:left;}
+.css_pcent_ds2__obj {text-align:left;}
+.css_dp1_2p__label { }
+.css_dp1_2p__line {text-align:left;}
+.css_dp1_2p__obj {text-align:left;}
+.css_dp2_2p__label { }
+.css_dp2_2p__line {text-align:left;}
+.css_dp2_2p__obj {text-align:left;}
+.css_dp3_2p__label { }
+.css_dp3_2p__line {text-align:left;}
+.css_dp3_2p__obj {text-align:left;}
+.css_dp4_2p__label { }
+.css_dp4_2p__line {text-align:left;}
+.css_dp4_2p__obj {text-align:left;}
+.css_dp5_2p__label { }
+.css_dp5_2p__line {text-align:left;}
+.css_dp5_2p__obj {text-align:left;}
+.css_pcent_dp2__label { }
+.css_pcent_dp2__line {text-align:left;}
+.css_pcent_dp2__obj {text-align:left;}
+.css_aee_p2__label { }
+.css_aee_p2__line {text-align:left;}
+.css_aee_p2__obj {text-align:left;}
+.css_porcet_aee_p2__label { }
+.css_porcet_aee_p2__line {text-align:left;}
+.css_porcet_aee_p2__obj {text-align:left;}
+.css_inasistencia_p3__label { }
+.css_inasistencia_p3__line {text-align:left;}
+.css_inasistencia_p3__obj {text-align:left;}
+.css_eval_3_per__label { }
+.css_eval_3_per__line {text-align:left;}
+.css_eval_3_per__obj {text-align:left;}
+.css_dc1_3p__label { }
+.css_dc1_3p__line {text-align:left;}
+.css_dc1_3p__obj {text-align:left;}
+.css_dc2_3p__label { }
+.css_dc2_3p__line {text-align:left;}
+.css_dc2_3p__obj {text-align:left;}
+.css_dc3_3p__label { }
+.css_dc3_3p__line {text-align:left;}
+.css_dc3_3p__obj {text-align:left;}
+.css_dc4_3p__label { }
+.css_dc4_3p__line {text-align:left;}
+.css_dc4_3p__obj {text-align:left;}
+.css_dc5_3p__label { }
+.css_dc5_3p__line {text-align:left;}
+.css_dc5_3p__obj {text-align:left;}
+.css_pcent_dc3__label { }
+.css_pcent_dc3__line {text-align:left;}
+.css_pcent_dc3__obj {text-align:left;}
+.css_ds1_p3__label { }
+.css_ds1_p3__line {text-align:left;}
+.css_ds1_p3__obj {text-align:left;}
+.css_ds2_p3__label { }
+.css_ds2_p3__line {text-align:left;}
+.css_ds2_p3__obj {text-align:left;}
+.css_ds3_p3__label { }
+.css_ds3_p3__line {text-align:left;}
+.css_ds3_p3__obj {text-align:left;}
+.css_ds4_p3__label { }
+.css_ds4_p3__line {text-align:left;}
+.css_ds4_p3__obj {text-align:left;}
+.css_ds5_p3__label { }
+.css_ds5_p3__line {text-align:left;}
+.css_ds5_p3__obj {text-align:left;}
+.css_pcent_ds3__label { }
+.css_pcent_ds3__line {text-align:left;}
+.css_pcent_ds3__obj {text-align:left;}
+.css_dp1_p3__label { }
+.css_dp1_p3__line {text-align:left;}
+.css_dp1_p3__obj {text-align:left;}
+.css_dp2_p3__label { }
+.css_dp2_p3__line {text-align:left;}
+.css_dp2_p3__obj {text-align:left;}
+.css_dp3_p3__label { }
+.css_dp3_p3__line {text-align:left;}
+.css_dp3_p3__obj {text-align:left;}
+.css_dp4_p3__label { }
+.css_dp4_p3__line {text-align:left;}
+.css_dp4_p3__obj {text-align:left;}
+.css_sc_field_0__label { }
+.css_sc_field_0__line {text-align:left;}
+.css_sc_field_0__obj {text-align:left;}
+.css_pcent_dp3__label { }
+.css_pcent_dp3__line {text-align:left;}
+.css_pcent_dp3__obj {text-align:left;}
+.css_aee_p3__label { }
+.css_aee_p3__line {text-align:left;}
+.css_aee_p3__obj {text-align:left;}
+.css_porcent_aee_p3__label { }
+.css_porcent_aee_p3__line {text-align:left;}
+.css_porcent_aee_p3__obj {text-align:left;}
+.css_inasistencia_p4__label { }
+.css_inasistencia_p4__line {text-align:left;}
+.css_inasistencia_p4__obj {text-align:left;}
+.css_eval_4_per__label { }
+.css_eval_4_per__line {text-align:left;}
+.css_eval_4_per__obj {text-align:left;}
+.css_dc1_p4__label { }
+.css_dc1_p4__line {text-align:left;}
+.css_dc1_p4__obj {text-align:left;}
+.css_dc2_p4__label { }
+.css_dc2_p4__line {text-align:left;}
+.css_dc2_p4__obj {text-align:left;}
+.css_dc3_p4__label { }
+.css_dc3_p4__line {text-align:left;}
+.css_dc3_p4__obj {text-align:left;}
+.css_dc4_p4__label { }
+.css_dc4_p4__line {text-align:left;}
+.css_dc4_p4__obj {text-align:left;}
+.css_dc5_p4__label { }
+.css_dc5_p4__line {text-align:left;}
+.css_dc5_p4__obj {text-align:left;}
+.css_pcent_dc4__label { }
+.css_pcent_dc4__line {text-align:left;}
+.css_pcent_dc4__obj {text-align:left;}
+.css_ds1_p4__label { }
+.css_ds1_p4__line {text-align:left;}
+.css_ds1_p4__obj {text-align:left;}
+.css_ds2_p4__label { }
+.css_ds2_p4__line {text-align:left;}
+.css_ds2_p4__obj {text-align:left;}
+.css_ds3_p4__label { }
+.css_ds3_p4__line {text-align:left;}
+.css_ds3_p4__obj {text-align:left;}
+.css_ds4_p4__label { }
+.css_ds4_p4__line {text-align:left;}
+.css_ds4_p4__obj {text-align:left;}
+.css_ds5_p4__label { }
+.css_ds5_p4__line {text-align:left;}
+.css_ds5_p4__obj {text-align:left;}
+.css_pcent_ds4__label { }
+.css_pcent_ds4__line {text-align:left;}
+.css_pcent_ds4__obj {text-align:left;}
+.css_dp1_p4__label { }
+.css_dp1_p4__line {text-align:left;}
+.css_dp1_p4__obj {text-align:left;}
+.css_dp2_p4__label { }
+.css_dp2_p4__line {text-align:left;}
+.css_dp2_p4__obj {text-align:left;}
+.css_dp3_p4__label { }
+.css_dp3_p4__line {text-align:left;}
+.css_dp3_p4__obj {text-align:left;}
+.css_dp4_p4__label { }
+.css_dp4_p4__line {text-align:left;}
+.css_dp4_p4__obj {text-align:left;}
+.css_dp5_p4__label { }
+.css_dp5_p4__line {text-align:left;}
+.css_dp5_p4__obj {text-align:left;}
+.css_aee_p4__label { }
+.css_aee_p4__line {text-align:left;}
+.css_aee_p4__obj {text-align:left;}
+.css_porcent_aee_p4__label { }
+.css_porcent_aee_p4__line {text-align:left;}
+.css_porcent_aee_p4__obj {text-align:left;}
+.css_pcent_dp4__label { }
+.css_pcent_dp4__line {text-align:left;}
+.css_pcent_dp4__obj {text-align:left;}
+.css_eval_final__label { }
+.css_eval_final__line {text-align:left;}
+.css_eval_final__obj {text-align:left;}
+.css_entorno__label { }
+.css_entorno__line {text-align:left;}
+.css_entorno__obj {text-align:left;}

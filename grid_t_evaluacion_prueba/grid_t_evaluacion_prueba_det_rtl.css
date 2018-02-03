@@ -1,0 +1,232 @@
+.css_id_estudiante_det_label {text-align: right;vertical-align: middle;}
+.css_id_estudiante_det_line {height:0px;text-align: right;}
+.css_primer_apellido_det_label {text-align: right;vertical-align: middle;}
+.css_primer_apellido_det_line {height:0px;text-align: right;}
+.css_segundo_apellido_det_label {text-align: right;vertical-align: middle;}
+.css_segundo_apellido_det_line {height:0px;text-align: right;}
+.css_primer_nombre_det_label {text-align: right;vertical-align: middle;}
+.css_primer_nombre_det_line {height:0px;text-align: right;}
+.css_segundo_nombre_det_label {text-align: right;vertical-align: middle;}
+.css_segundo_nombre_det_line {height:0px;text-align: right;}
+.css_id_grupo_det_label {text-align: right;vertical-align: middle;}
+.css_id_grupo_det_line {height:0px;text-align: right;}
+.css_id_area_det_label {text-align: right;vertical-align: middle;}
+.css_id_area_det_line {height:0px;text-align: right;}
+.css_id_asignatura_det_label {text-align: right;vertical-align: middle;}
+.css_id_asignatura_det_line {height:0px;text-align: right;}
+.css_id_grado_det_label {text-align: right;vertical-align: middle;}
+.css_id_grado_det_line {height:0px;text-align: right;}
+.css_id_nivel_det_label {text-align: right;vertical-align: middle;}
+.css_id_nivel_det_line {height:0px;text-align: right;}
+.css_ihs_det_label {text-align: right;vertical-align: middle;}
+.css_ihs_det_line {height:0px;text-align: right;}
+.css_pfa_det_label {text-align: right;vertical-align: middle;}
+.css_pfa_det_line {height:0px;text-align: right;}
+.css_tipo_asig_det_label {text-align: right;vertical-align: middle;}
+.css_tipo_asig_det_line {height:0px;text-align: right;}
+.css_novedad_det_label {text-align: right;vertical-align: middle;}
+.css_novedad_det_line {height:0px;text-align: right;}
+.css_estatus_det_label {text-align: right;vertical-align: middle;}
+.css_estatus_det_line {height:0px;text-align: right;}
+.css_inasistencia_p1_det_label {text-align: right;vertical-align: middle;}
+.css_inasistencia_p1_det_line {height:0px;text-align: right;}
+.css_eval_1_per_det_label {text-align: right;vertical-align: middle;}
+.css_eval_1_per_det_line {height:0px;text-align: right;}
+.css_dc1_det_label {text-align: right;vertical-align: middle;}
+.css_dc1_det_line {height:0px;text-align: right;}
+.css_dc2_det_label {text-align: right;vertical-align: middle;}
+.css_dc2_det_line {height:0px;text-align: right;}
+.css_dc3_det_label {text-align: right;vertical-align: middle;}
+.css_dc3_det_line {height:0px;text-align: right;}
+.css_dc4_det_label {text-align: right;vertical-align: middle;}
+.css_dc4_det_line {height:0px;text-align: right;}
+.css_dc5_det_label {text-align: right;vertical-align: middle;}
+.css_dc5_det_line {height:0px;text-align: right;}
+.css_dc6_det_label {text-align: right;vertical-align: middle;}
+.css_dc6_det_line {height:0px;text-align: right;}
+.css_dc7_det_label {text-align: right;vertical-align: middle;}
+.css_dc7_det_line {height:0px;text-align: right;}
+.css_dc8_det_label {text-align: right;vertical-align: middle;}
+.css_dc8_det_line {height:0px;text-align: right;}
+.css_dc9_det_label {text-align: right;vertical-align: middle;}
+.css_dc9_det_line {height:0px;text-align: right;}
+.css_dc10_det_label {text-align: right;vertical-align: middle;}
+.css_dc10_det_line {height:0px;text-align: right;}
+.css_dc11_det_label {text-align: right;vertical-align: middle;}
+.css_dc11_det_line {height:0px;text-align: right;}
+.css_dc12_det_label {text-align: right;vertical-align: middle;}
+.css_dc12_det_line {height:0px;text-align: right;}
+.css_letras_p1_det_label {text-align: right;vertical-align: middle;}
+.css_letras_p1_det_line {height:0px;text-align: right;}
+.css_pcent_dc_det_label {text-align: right;vertical-align: middle;}
+.css_pcent_dc_det_line {height:0px;text-align: right;}
+.css_ds1_det_label {text-align: right;vertical-align: middle;}
+.css_ds1_det_line {height:0px;text-align: right;}
+.css_ds2_det_label {text-align: right;vertical-align: middle;}
+.css_ds2_det_line {height:0px;text-align: right;}
+.css_ds3_det_label {text-align: right;vertical-align: middle;}
+.css_ds3_det_line {height:0px;text-align: right;}
+.css_ds4_det_label {text-align: right;vertical-align: middle;}
+.css_ds4_det_line {height:0px;text-align: right;}
+.css_ds5_det_label {text-align: right;vertical-align: middle;}
+.css_ds5_det_line {height:0px;text-align: right;}
+.css_pcent_ds_det_label {text-align: right;vertical-align: middle;}
+.css_pcent_ds_det_line {height:0px;text-align: right;}
+.css_dp1_det_label {text-align: right;vertical-align: middle;}
+.css_dp1_det_line {height:0px;text-align: right;}
+.css_dp2_det_label {text-align: right;vertical-align: middle;}
+.css_dp2_det_line {height:0px;text-align: right;}
+.css_dp3_det_label {text-align: right;vertical-align: middle;}
+.css_dp3_det_line {height:0px;text-align: right;}
+.css_dp4_det_label {text-align: right;vertical-align: middle;}
+.css_dp4_det_line {height:0px;text-align: right;}
+.css_dp5_det_label {text-align: right;vertical-align: middle;}
+.css_dp5_det_line {height:0px;text-align: right;}
+.css_pcent_dp_det_label {text-align: right;vertical-align: middle;}
+.css_pcent_dp_det_line {height:0px;text-align: right;}
+.css_aeep1_det_label {text-align: right;vertical-align: middle;}
+.css_aeep1_det_line {height:0px;text-align: right;}
+.css_porcent_aeep1_det_label {text-align: right;vertical-align: middle;}
+.css_porcent_aeep1_det_line {height:0px;text-align: right;}
+.css_inasistencia_p2_det_label {text-align: right;vertical-align: middle;}
+.css_inasistencia_p2_det_line {height:0px;text-align: right;}
+.css_eval_2_per_det_label {text-align: right;vertical-align: middle;}
+.css_eval_2_per_det_line {height:0px;text-align: right;}
+.css_dc1_2p_det_label {text-align: right;vertical-align: middle;}
+.css_dc1_2p_det_line {height:0px;text-align: right;}
+.css_dc2_2p_det_label {text-align: right;vertical-align: middle;}
+.css_dc2_2p_det_line {height:0px;text-align: right;}
+.css_dc3_2p_det_label {text-align: right;vertical-align: middle;}
+.css_dc3_2p_det_line {height:0px;text-align: right;}
+.css_dc4_2p_det_label {text-align: right;vertical-align: middle;}
+.css_dc4_2p_det_line {height:0px;text-align: right;}
+.css_dc5_2p_det_label {text-align: right;vertical-align: middle;}
+.css_dc5_2p_det_line {height:0px;text-align: right;}
+.css_pcent_dc2_det_label {text-align: right;vertical-align: middle;}
+.css_pcent_dc2_det_line {height:0px;text-align: right;}
+.css_ds1_2p_det_label {text-align: right;vertical-align: middle;}
+.css_ds1_2p_det_line {height:0px;text-align: right;}
+.css_ds2_2p_det_label {text-align: right;vertical-align: middle;}
+.css_ds2_2p_det_line {height:0px;text-align: right;}
+.css_ds3_2p_det_label {text-align: right;vertical-align: middle;}
+.css_ds3_2p_det_line {height:0px;text-align: right;}
+.css_ds4_2p_det_label {text-align: right;vertical-align: middle;}
+.css_ds4_2p_det_line {height:0px;text-align: right;}
+.css_ds5_2p_det_label {text-align: right;vertical-align: middle;}
+.css_ds5_2p_det_line {height:0px;text-align: right;}
+.css_pcent_ds2_det_label {text-align: right;vertical-align: middle;}
+.css_pcent_ds2_det_line {height:0px;text-align: right;}
+.css_dp1_2p_det_label {text-align: right;vertical-align: middle;}
+.css_dp1_2p_det_line {height:0px;text-align: right;}
+.css_dp2_2p_det_label {text-align: right;vertical-align: middle;}
+.css_dp2_2p_det_line {height:0px;text-align: right;}
+.css_dp3_2p_det_label {text-align: right;vertical-align: middle;}
+.css_dp3_2p_det_line {height:0px;text-align: right;}
+.css_dp4_2p_det_label {text-align: right;vertical-align: middle;}
+.css_dp4_2p_det_line {height:0px;text-align: right;}
+.css_dp5_2p_det_label {text-align: right;vertical-align: middle;}
+.css_dp5_2p_det_line {height:0px;text-align: right;}
+.css_pcent_dp2_det_label {text-align: right;vertical-align: middle;}
+.css_pcent_dp2_det_line {height:0px;text-align: right;}
+.css_aee_p2_det_label {text-align: right;vertical-align: middle;}
+.css_aee_p2_det_line {height:0px;text-align: right;}
+.css_letras_p2_det_label {text-align: right;vertical-align: middle;}
+.css_letras_p2_det_line {height:0px;text-align: right;}
+.css_porcet_aee_p2_det_label {text-align: right;vertical-align: middle;}
+.css_porcet_aee_p2_det_line {height:0px;text-align: right;}
+.css_inasistencia_p3_det_label {text-align: right;vertical-align: middle;}
+.css_inasistencia_p3_det_line {height:0px;text-align: right;}
+.css_eval_3_per_det_label {text-align: right;vertical-align: middle;}
+.css_eval_3_per_det_line {height:0px;text-align: right;}
+.css_dc1_3p_det_label {text-align: right;vertical-align: middle;}
+.css_dc1_3p_det_line {height:0px;text-align: right;}
+.css_dc2_3p_det_label {text-align: right;vertical-align: middle;}
+.css_dc2_3p_det_line {height:0px;text-align: right;}
+.css_dc3_3p_det_label {text-align: right;vertical-align: middle;}
+.css_dc3_3p_det_line {height:0px;text-align: right;}
+.css_dc4_3p_det_label {text-align: right;vertical-align: middle;}
+.css_dc4_3p_det_line {height:0px;text-align: right;}
+.css_dc5_3p_det_label {text-align: right;vertical-align: middle;}
+.css_dc5_3p_det_line {height:0px;text-align: right;}
+.css_pcent_dc3_det_label {text-align: right;vertical-align: middle;}
+.css_pcent_dc3_det_line {height:0px;text-align: right;}
+.css_ds1_p3_det_label {text-align: right;vertical-align: middle;}
+.css_ds1_p3_det_line {height:0px;text-align: right;}
+.css_ds2_p3_det_label {text-align: right;vertical-align: middle;}
+.css_ds2_p3_det_line {height:0px;text-align: right;}
+.css_ds3_p3_det_label {text-align: right;vertical-align: middle;}
+.css_ds3_p3_det_line {height:0px;text-align: right;}
+.css_ds4_p3_det_label {text-align: right;vertical-align: middle;}
+.css_ds4_p3_det_line {height:0px;text-align: right;}
+.css_ds5_p3_det_label {text-align: right;vertical-align: middle;}
+.css_ds5_p3_det_line {height:0px;text-align: right;}
+.css_pcent_ds3_det_label {text-align: right;vertical-align: middle;}
+.css_pcent_ds3_det_line {height:0px;text-align: right;}
+.css_dp1_p3_det_label {text-align: right;vertical-align: middle;}
+.css_dp1_p3_det_line {height:0px;text-align: right;}
+.css_dp2_p3_det_label {text-align: right;vertical-align: middle;}
+.css_dp2_p3_det_line {height:0px;text-align: right;}
+.css_dp3_p3_det_label {text-align: right;vertical-align: middle;}
+.css_dp3_p3_det_line {height:0px;text-align: right;}
+.css_dp4_p3_det_label {text-align: right;vertical-align: middle;}
+.css_dp4_p3_det_line {height:0px;text-align: right;}
+.css_sc_field_0_det_label {text-align: right;vertical-align: middle;}
+.css_sc_field_0_det_line {height:0px;text-align: right;}
+.css_pcent_dp3_det_label {text-align: right;vertical-align: middle;}
+.css_pcent_dp3_det_line {height:0px;text-align: right;}
+.css_aee_p3_det_label {text-align: right;vertical-align: middle;}
+.css_aee_p3_det_line {height:0px;text-align: right;}
+.css_letras_p3_det_label {text-align: right;vertical-align: middle;}
+.css_letras_p3_det_line {height:0px;text-align: right;}
+.css_porcent_aee_p3_det_label {text-align: right;vertical-align: middle;}
+.css_porcent_aee_p3_det_line {height:0px;text-align: right;}
+.css_inasistencia_p4_det_label {text-align: right;vertical-align: middle;}
+.css_inasistencia_p4_det_line {height:0px;text-align: right;}
+.css_eval_4_per_det_label {text-align: right;vertical-align: middle;}
+.css_eval_4_per_det_line {height:0px;text-align: right;}
+.css_dc1_p4_det_label {text-align: right;vertical-align: middle;}
+.css_dc1_p4_det_line {height:0px;text-align: right;}
+.css_dc2_p4_det_label {text-align: right;vertical-align: middle;}
+.css_dc2_p4_det_line {height:0px;text-align: right;}
+.css_dc3_p4_det_label {text-align: right;vertical-align: middle;}
+.css_dc3_p4_det_line {height:0px;text-align: right;}
+.css_dc4_p4_det_label {text-align: right;vertical-align: middle;}
+.css_dc4_p4_det_line {height:0px;text-align: right;}
+.css_dc5_p4_det_label {text-align: right;vertical-align: middle;}
+.css_dc5_p4_det_line {height:0px;text-align: right;}
+.css_pcent_dc4_det_label {text-align: right;vertical-align: middle;}
+.css_pcent_dc4_det_line {height:0px;text-align: right;}
+.css_ds1_p4_det_label {text-align: right;vertical-align: middle;}
+.css_ds1_p4_det_line {height:0px;text-align: right;}
+.css_ds2_p4_det_label {text-align: right;vertical-align: middle;}
+.css_ds2_p4_det_line {height:0px;text-align: right;}
+.css_ds3_p4_det_label {text-align: right;vertical-align: middle;}
+.css_ds3_p4_det_line {height:0px;text-align: right;}
+.css_ds4_p4_det_label {text-align: right;vertical-align: middle;}
+.css_ds4_p4_det_line {height:0px;text-align: right;}
+.css_ds5_p4_det_label {text-align: right;vertical-align: middle;}
+.css_ds5_p4_det_line {height:0px;text-align: right;}
+.css_pcent_ds4_det_label {text-align: right;vertical-align: middle;}
+.css_pcent_ds4_det_line {height:0px;text-align: right;}
+.css_dp1_p4_det_label {text-align: right;vertical-align: middle;}
+.css_dp1_p4_det_line {height:0px;text-align: right;}
+.css_dp2_p4_det_label {text-align: right;vertical-align: middle;}
+.css_dp2_p4_det_line {height:0px;text-align: right;}
+.css_dp3_p4_det_label {text-align: right;vertical-align: middle;}
+.css_dp3_p4_det_line {height:0px;text-align: right;}
+.css_dp4_p4_det_label {text-align: right;vertical-align: middle;}
+.css_dp4_p4_det_line {height:0px;text-align: right;}
+.css_dp5_p4_det_label {text-align: right;vertical-align: middle;}
+.css_dp5_p4_det_line {height:0px;text-align: right;}
+.css_aee_p4_det_label {text-align: right;vertical-align: middle;}
+.css_aee_p4_det_line {height:0px;text-align: right;}
+.css_letras_p4_det_label {text-align: right;vertical-align: middle;}
+.css_letras_p4_det_line {height:0px;text-align: right;}
+.css_porcent_aee_p4_det_label {text-align: right;vertical-align: middle;}
+.css_porcent_aee_p4_det_line {height:0px;text-align: right;}
+.css_pcent_dp4_det_label {text-align: right;vertical-align: middle;}
+.css_pcent_dp4_det_line {height:0px;text-align: right;}
+.css_eval_final_det_label {text-align: right;vertical-align: middle;}
+.css_eval_final_det_line {height:0px;text-align: right;}
+.css_entorno_det_label {text-align: right;vertical-align: middle;}
+.css_entorno_det_line {height:0px;text-align: right;}

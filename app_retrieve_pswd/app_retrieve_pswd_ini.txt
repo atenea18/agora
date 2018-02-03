@@ -1,0 +1,7 @@
+index.php
+agora_IV
+app_retrieve_pswd
+NAO
+contr
+app_retrieve_pswd
+LigMd5
